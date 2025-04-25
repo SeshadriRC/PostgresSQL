@@ -36,6 +36,20 @@ Buffer cache -> shared buffer
     
 It is a group of databases running out of a particular PGDATA
 
+7. How to find the pgdata location
+
+   Type --> ps -ef|grep postgres, from there you can see ( /var/lib/pgsql/15/data )
+   
+   Here you can find the file pgsql.conf
+
+   whenever you edit the file pgsql.conf, we need to restart the services using pg_ctrl restart
+
+8. What is pg_ctl
+
+   pg_ctl is a command-line utility used to control the PostgreSQL database server (postgres).
+
+   pg_ctl restart
+   
 
 
 
