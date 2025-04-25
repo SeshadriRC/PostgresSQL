@@ -49,8 +49,14 @@ It is a group of databases running out of a particular PGDATA
    pg_ctl is a command-line utility used to control the PostgreSQL database server (postgres).
 
    pg_ctl restart
-   
 
+9. Which RPM contains Postgres extensions supported officially:
+
+   postgresql5-contrib.x86_64
+
+10. Which RPM is used for developing applications that interact with PostgreSQL.
+
+   postgresql5-devel.x86_64
 
 
 
