@@ -58,6 +58,15 @@ It is a group of databases running out of a particular PGDATA
 
    postgresql5-devel.x86_64
 
+11. What is the purpose of  initdb in Postgres?
+
+  Initialize the cluster and populate PGDATA
+
+12. From where can I get instructions to install postgres for my OS?
+
+  Follow instructions from postgresql.org/download
+
+
 
 
 
