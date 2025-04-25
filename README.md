@@ -86,6 +86,27 @@ It is a group of databases running out of a particular PGDATA
 
 ![image](https://github.com/user-attachments/assets/c116a713-236e-4a53-907f-cae48ebfb3fc)
 
+17. Functions of Postmaster
+
+![image](https://github.com/user-attachments/assets/f81c3be1-4ed5-4ddc-ab80-512ed57d83c9)
+
+18. Background process and its functions
+
+![image](https://github.com/user-attachments/assets/0de56dcc-ca72-4884-b724-2b16529e1592)
+
+19. Listener in postgres
+
+![image](https://github.com/user-attachments/assets/c0b91abe-d49e-4844-b408-38a96313f766)
+
+20. Memory comparison
+
+![Uploading image.png…]()
+
+
+
+
+
+
 
 
 
