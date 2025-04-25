@@ -66,6 +66,34 @@ It is a group of databases running out of a particular PGDATA
 
   Follow instructions from postgresql.org/download
 
+13. High Level comparison of Oracle and Postgresql
+
+![image](https://github.com/user-attachments/assets/b0650c42-9ea3-4b96-bb1a-f70e738c536d)
+![image](https://github.com/user-attachments/assets/4be98716-66f8-44d7-a2fc-9dfefa1cc3b0)
+![image](https://github.com/user-attachments/assets/4b017f62-d871-4b62-a636-d0b4d554b6d5)
+
+14. Database Cluster and Instance
+
+![image](https://github.com/user-attachments/assets/8e3c6043-405d-4e7c-a531-09bdab4c3732)
+![image](https://github.com/user-attachments/assets/f080a769-240d-4b7d-ab21-4192933c6d1a)
+![image](https://github.com/user-attachments/assets/0a81450a-ce48-4aec-a7d6-a99927232e04)
+
+15. Check the memory
+
+    ipcs -a
+
+16. Process comparison in postgresql
+
+![image](https://github.com/user-attachments/assets/c116a713-236e-4a53-907f-cae48ebfb3fc)
+
+
+
+
+
+
+
+
+
 
 
 
