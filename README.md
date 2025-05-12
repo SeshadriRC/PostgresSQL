@@ -1,5 +1,10 @@
 # PostgresSQL
 
+**Architecture of Postgresql**
+
+![image](https://github.com/user-attachments/assets/bb58846a-e962-46aa-a913-d202310cbf72)
+
+
 1. What is the default Port of Postgres database?
 
 5432
