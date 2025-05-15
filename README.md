@@ -6,6 +6,12 @@
 
 ![image](https://github.com/user-attachments/assets/8e78cfbd-b772-4653-8110-e51a30b7812c)
 
+![image](https://github.com/user-attachments/assets/30b479dd-386e-43c5-87b0-e348d126d2d4)
+
+![image](https://github.com/user-attachments/assets/64cc6eb5-74e6-41b8-a5a4-07592fd885da)
+
+![image](https://github.com/user-attachments/assets/58396131-e5ea-43d3-9b90-f83e62019dce)
+
 
 
 1. What is the default Port of Postgres database?
